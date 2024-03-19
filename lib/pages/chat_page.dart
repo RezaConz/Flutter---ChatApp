@@ -1,5 +1,3 @@
-// import 'dart:js';
-
 import 'package:chat_app/components/text_field.dart';
 import 'package:chat_app/services/auth/auth_service.dart';
 import 'package:chat_app/services/db/chat_service.dart';
