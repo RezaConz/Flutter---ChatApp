@@ -19,7 +19,7 @@ class ButtonPrimary extends StatelessWidget {
         child: Center(
           child: Text(text),
         ),
-        padding: EdgeInsets.all(25),
+        padding: EdgeInsets.all(20),
         margin: EdgeInsets.symmetric(horizontal: 30),
       ),
     );
